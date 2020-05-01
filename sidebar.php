@@ -1,4 +1,4 @@
-<?php get_sidebar( inicial ); ?>
+<?php get_sidebar( 'inicial' ); ?>
 <div id="sidebar">
 
     <div class="box2">

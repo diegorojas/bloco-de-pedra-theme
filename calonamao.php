@@ -1,4 +1,4 @@
-<?php get_header( calonamao ); /* Template Name: Calo na Mao */ ?>
+<?php get_header( 'calonamao' ); /* Template Name: Calo na Mao */ ?>
 
 		<div id="container"><!-- #container -->
         
@@ -43,6 +43,6 @@
 		
         </div><!-- #container -->
 
-<?php get_sidebar(calonamao); ?>
+<?php get_sidebar( 'calonamao' ); ?>
 
-<?php get_footer(calonamao); ?>
+<?php get_footer( 'calonamao' ); ?>

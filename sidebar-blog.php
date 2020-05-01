@@ -1,4 +1,4 @@
-<?php get_sidebar( inicial ); ?>
+<?php get_sidebar( 'inicial' ); ?>
 <div id="sidebar-blocodepedra">
 <div id="sidebar-facebook"><!-- SIDEBAR FACEBOOK -->
 <h2>Bloco<br />no Facebook</h2>

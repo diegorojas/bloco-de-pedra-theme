@@ -42,7 +42,7 @@
 		
         </div><!-- #container -->
 
-<?php get_sidebar( blocodepedra ); ?>
+<?php get_sidebar( 'blocodepedra' ); ?>
 
 <?php get_footer(); ?>
 

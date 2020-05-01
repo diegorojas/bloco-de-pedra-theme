@@ -1,4 +1,4 @@
-<?php get_header( blocodepedra ); /* Template Name: Contatos */ ?>
+<?php get_header( 'blocodepedra' ); /* Template Name: Contatos */ ?>
 
 		<div id="container"><!-- #container -->
 			<div id="conteudo-contatos" role="main"><!-- #conteudo-contatos -->
@@ -15,4 +15,4 @@
 			</div><!-- #conteudo-contatos -->
 		</div><!-- #container -->
 
-<?php get_footer( blocodepedra ); ?>
+<?php get_footer( 'blocodepedra' ); ?>

@@ -8,5 +8,5 @@
 			</div><!-- #conteudo inicial -->
 		</div><!-- #container -->
 
-<?php get_sidebar( inicial ); ?>
-<?php get_footer( inicial ); ?>
+<?php get_sidebar( 'inicial' ); ?>
+<?php get_footer( 'inicial' ); ?>

@@ -1,4 +1,4 @@
-<?php get_header( blocodepedra ); /* Template Name: Videos */ ?>
+<?php get_header( 'blocodepedra' ); /* Template Name: Videos */ ?>
 
 		<div id="container"><!-- #container -->
 
@@ -17,6 +17,6 @@
 		</div><!-- #container -->
         		
         
-        <?php get_sidebar( blocodepedra ); ?>
+        <?php get_sidebar( 'blocodepedra' ); ?>
 
-<?php get_footer( blocodepedra ); ?>
+<?php get_footer( 'blocodepedra' ); ?>
