@@ -8,9 +8,10 @@ require_once (get_stylesheet_directory() . '/custom-agenda.php');
 require_once('metabox/meta-box.php');
 
 //aqui se criam os meta boxes ....
-// ) {
+// foreach ($meta_boxes as $metabox) {
 //	new RW_Meta_Box($meta_box);
 // }
+
 
 // AQUI COMEÇA O QUE?
 
